@@ -10,6 +10,8 @@ namespace _11D_0217
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("1. git repo");
+            Console.WriteLine("ujabb kiiras");
         }
     }
 }
